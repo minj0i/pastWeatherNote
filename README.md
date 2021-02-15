@@ -14,3 +14,7 @@
 > ## 종료
 ### 6. [Google PlayStore Upload 관련](https://github.com/minj0i/pastWeatherNote/blob/main/Note/upload.md)
 ### 7. [개발 후기](https://github.com/minj0i/pastWeatherNote/blob/main/Note/finish.md)
+
+> ## 배포
+구글 플레이 스토어: [어제날씨기억나](https://play.google.com/store/apps/details?id=com.pastweather)
+
