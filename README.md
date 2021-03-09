@@ -16,5 +16,5 @@
 ### 7. [개발 후기](https://github.com/minj0i/pastWeatherNote/blob/main/Note/finish.md)
 
 > ## 배포
+### 8. [배포 이후](https://github.com/minj0i/pastWeatherNote/blob/main/Note/afterRelease.md)
 구글 플레이 스토어: [어제날씨기억나](https://play.google.com/store/apps/details?id=com.pastweather)
-
